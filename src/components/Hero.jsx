@@ -99,11 +99,11 @@ export default function Hero({ onOpenResume, onShowToast }) {
               <strong className="text-violet-700 dark:text-violet-300 font-semibold">
                 ATG World / Banao Technologies
               </strong>{' '}
-              (Dubai, Remote) and previously at{' '}
+              (Dubai Techno Park, Remote) and previously at{' '}
               <strong className="text-violet-700 dark:text-violet-300 font-semibold">
                 Springers Capital
               </strong>{' '}
-              (US-Based, Remote). Creator of{' '}
+              (Chicago Metropolitan Area, Remote). Creator of{' '}
               <strong className="text-violet-700 dark:text-violet-300 font-semibold">
                 First-Fly
               </strong>{' '}
