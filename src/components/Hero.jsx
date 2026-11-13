@@ -220,6 +220,10 @@ export default function Hero({ onOpenResume, onShowToast }) {
                     <img
                       src={personalInfo.avatar}
                       alt={personalInfo.name}
+                      onError={(e) => {
+                        e.target.onerror = null;
+                        e.target.src = 'https://github.com/ShreyMangle.png';
+                      }}
                       className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-violet-950/60 via-transparent to-transparent opacity-40"></div>
