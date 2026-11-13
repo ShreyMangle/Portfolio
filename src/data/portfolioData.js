@@ -10,7 +10,7 @@ export const personalInfo = {
   github: "https://github.com/ShreyMangle",
   linkedin: "https://www.linkedin.com/in/shrey-mangle-38ba5a286/",
   avatar: "https://avatars.githubusercontent.com/u/199966179?v=4",
-  resumePath: "/Shrey_Mangle_Resume.pdf",
+  resumePath: `${import.meta.env.BASE_URL}Shrey_Mangle_Resume.pdf`,
   status: "Available for High-Impact AI & Software Engineering Roles (2026)",
 };
 
@@ -305,3 +305,4 @@ export const cliCommands = {
   contact: "Email: shreymangle346@gmail.com | Phone: +91 9028525745 | LinkedIn: /in/shrey-mangle-38ba5a286",
   resume: "Resume available at /Shrey_Mangle_Resume.pdf. Click the 'Download Resume' button to save it!",
 };
+

@@ -169,3 +169,4 @@ export default function InteractiveCli({ isOpen, onClose, onOpenResume, onShowTo
     </div>
   );
 }
+

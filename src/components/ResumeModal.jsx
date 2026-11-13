@@ -73,3 +73,4 @@ export default function ResumeModal({ isOpen, onClose, onDownload }) {
     </div>
   );
 }
+
