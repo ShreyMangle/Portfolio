@@ -9,7 +9,7 @@ export const personalInfo = {
   phone: "+91 9028525745",
   github: "https://github.com/ShreyMangle",
   linkedin: "https://www.linkedin.com/in/shrey-mangle-38ba5a286/",
-  avatar: `${import.meta.env.BASE_URL}profile.jpg`,
+  avatar: `${import.meta.env.BASE_URL}profile.jpg?v=2`,
   resumePath: `${import.meta.env.BASE_URL}Shrey_Mangle_Resume.pdf`,
   status: "Available for High-Impact AI & Software Engineering Roles (2026)",
 };
