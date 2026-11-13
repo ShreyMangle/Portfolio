@@ -3,7 +3,7 @@ export const personalInfo = {
   nickname: "Shrey",
   title: "AI Developer & Full-Stack Systems Engineer",
   tagline: "Architecting Intelligent AI Workflows, High-Throughput REST APIs & Scalable Data Platforms",
-  bio: "Computer Engineering undergraduate with production experience at ATG World and Springers Capital. Specialized in Python, FastAPI, React, LLM integrations, and high-volume data processing pipelines like First-Fly (246K+ records).",
+  bio: "Computer Engineering undergraduate with remote production experience at ATG World / Banao Technologies (Dubai) and Springers Capital (United States). Specialized in Python, FastAPI, React, LLM integrations, and high-volume data processing pipelines like First-Fly (246K+ records).",
   location: "Pune, Maharashtra, India",
   email: "shreymangle346@gmail.com",
   phone: "+91 9028525745",
@@ -18,18 +18,18 @@ export const keyStats = [
   { label: "Data Records Processed", value: "246,000+", sub: "In First-Fly Admission Platform" },
   { label: "Projected Cutoffs", value: "120,000+", sub: "Forecasting Pipeline Output" },
   { label: "Colleges Analyzed", value: "408", sub: "117 Engineering Branches" },
-  { label: "Industry Experience", value: "2 Internships", sub: "ATG World & Springers Capital" },
+  { label: "Industry Experience", value: "2 Internships", sub: "ATG World / Banao & Springers Capital" },
 ];
 
 export const experiences = [
   {
-    company: "ATG World",
+    company: "ATG World / Banao Technologies",
     role: "AI Developer Intern",
     period: "Feb 2026 – Present",
     badge: "Current Role",
-    location: "Pune, India (Hybrid)",
+    location: "Dubai, UAE (Remote)",
     highlights: [
-      "Engineered backend microservices and production LLM application workflows using Python, FastAPI, and generative AI APIs.",
+      "Engineered backend microservices and production LLM application workflows using Python, FastAPI, and generative AI APIs for global client solutions.",
       "Implemented resilient API integrations, investigated complex software issues, and validated end-to-end multi-turn workflows.",
       "Contributed to core feature delivery, structured prompt-driven workflows, and Pydantic validation schemas to maximize uptime and output determinism.",
     ],
@@ -40,9 +40,9 @@ export const experiences = [
     role: "AI Intern",
     period: "Nov 2025 – Jan 2026",
     badge: "Completed",
-    location: "Pune, India",
+    location: "United States (Remote)",
     highlights: [
-      "Implemented Python-based AI workflows and automated data-processing solutions for business decision-making.",
+      "Implemented Python-based AI workflows and automated data-processing solutions for business decision-making and market analytics.",
       "Conducted systematic unit testing, edge-case debugging, output validation, and detailed technical documentation.",
       "Optimized data extraction pipelines to feed contextual AI models with high precision.",
     ],
@@ -296,11 +296,11 @@ export const certifications = [
 
 export const cliCommands = {
   help: "Available commands: 'about', 'skills', 'projects', 'experience', 'education', 'contact', 'stats', 'resume', 'clear'",
-  about: "Shrey Vilas Mangle — AI Developer Intern @ ATG World, Computer Engineering student at MES Wadia College of Engineering Pune. Passionate about LLMs, high-throughput backend APIs, and real-world system solutions.",
-  stats: "• 246K+ Cutoff Records Processed\n• 120K+ Projections Generated\n• 408 Colleges Analyzed\n• 2 Industry AI Internships",
+  about: "Shrey Vilas Mangle — AI Developer Intern @ ATG World / Banao Technologies (Dubai, Remote), Computer Engineering student at MES Wadia College of Engineering Pune. Passionate about LLMs, high-throughput backend APIs, and real-world system solutions.",
+  stats: "• 246K+ Cutoff Records Processed\n• 120K+ Projections Generated\n• 408 Colleges Analyzed\n• 2 Global Remote AI Internships (Dubai & US)",
   skills: "FastAPI • Python • LangGraph • LLMs • React 19 • PostgreSQL • SQLite • Docker • C++ • Scikit-Learn • REST APIs",
   projects: "1. First-Fly (246K records admission engine)\n2. Vocalis AI (Intelligent Voice Platform)\n3. Multi-Agent Debate LangGraph\n4. SIH25192 POWERGRID Forecaster",
-  experience: "• AI Developer Intern @ ATG World (Feb 2026 - Present)\n• AI Intern @ Springers Capital (Nov 2025 - Jan 2026)",
+  experience: "• AI Developer Intern @ ATG World / Banao Technologies [Dubai, UAE - Remote] (Feb 2026 - Present)\n• AI Intern @ Springers Capital [United States - Remote] (Nov 2025 - Jan 2026)",
   education: "B.E. Computer Engineering (2023-2027), MES Wadia College of Engineering, Pune",
   contact: "Email: shreymangle346@gmail.com | Phone: +91 9028525745 | LinkedIn: /in/shrey-mangle-38ba5a286",
   resume: "Resume available at /Shrey_Mangle_Resume.pdf. Click the 'Download Resume' button to save it!",

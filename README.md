@@ -14,7 +14,7 @@ GitHub: [https://github.com/ShreyMangle/](https://github.com/ShreyMangle/)
 - **Theme Switcher**: Instant one-click toggle between **Lavender Mist (Light Violet Luxe)** and **Amethyst Noir (Deep Violet Dark)**.
 - **Interactive Developer CLI (`Ctrl/Cmd + K`)**: An embedded interactive terminal where recruiters and developers can execute real commands (`skills`, `projects`, `stats`, `experience`, `resume`, `contact`).
 - **Flagship Spotlight (First-Fly Platform)**: Interactive showcase of the MHT-CET Admission Intelligence Platform processing **246,000+** cutoff records across **408 colleges** with a forecasting regression pipeline generating **120,000+** projections.
-- **Industry Experience Showcase**: Highlighting roles at **ATG World** (AI Developer Intern) and **Springers Capital** (AI Intern).
+- **Industry Experience Showcase**: Highlighting roles at **ATG World / Banao Technologies** (Dubai, Remote) and **Springers Capital** (US-Based, Remote).
 - **Interactive Resume Modal & Direct Downloader**: Embedded PDF viewer and instant one-click download for `Shrey_Mangle_Resume.pdf`.
 - **Zero-Friction Contact System**: Interactive contact card, one-click email/phone copy with celebratory confetti, and automated mail client dispatcher.
 

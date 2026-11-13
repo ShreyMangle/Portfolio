@@ -97,13 +97,13 @@ export default function Hero({ onOpenResume, onShowToast }) {
             <p className="mt-6 text-base sm:text-lg text-slate-600 dark:text-violet-200/80 leading-relaxed max-w-2xl">
               Computer Engineering undergraduate &amp; AI Developer Intern at{' '}
               <strong className="text-violet-700 dark:text-violet-300 font-semibold">
-                ATG World
+                ATG World / Banao Technologies
               </strong>{' '}
-              and previously at{' '}
+              (Dubai, Remote) and previously at{' '}
               <strong className="text-violet-700 dark:text-violet-300 font-semibold">
                 Springers Capital
-              </strong>
-              . Creator of{' '}
+              </strong>{' '}
+              (US-Based, Remote). Creator of{' '}
               <strong className="text-violet-700 dark:text-violet-300 font-semibold">
                 First-Fly
               </strong>{' '}

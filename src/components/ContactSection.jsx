@@ -351,7 +351,7 @@ export default function ContactSection({ onShowToast }) {
                       required
                       value={formData.message}
                       onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-                      placeholder="Hi Shrey, I was impressed by your First-Fly architecture and ATG World experience..."
+                      placeholder="Hi Shrey, I was impressed by your First-Fly architecture and ATG World / Banao Technologies experience..."
                       className="w-full px-4 py-2.5 rounded-xl bg-violet-50/50 dark:bg-violet-950/30 border border-violet-200 dark:border-violet-800/70 text-slate-900 dark:text-white placeholder:text-slate-400 text-sm focus:outline-none focus:ring-2 focus:ring-violet-500 transition-all resize-none"
                     ></textarea>
                   </div>
