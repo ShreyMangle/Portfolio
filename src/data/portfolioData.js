@@ -89,7 +89,7 @@ export const projects = [
       "Prompt-guided personality and constraint validation to prevent hallucinations",
       "Real-time synthesis interface ready for voice assistant and customer support integration",
     ],
-    github: "https://github.com/ShreyMangle/Visual-Learning-AI-Video-Synthesis-System",
+    github: "https://github.com/ShreyMangle/Vocalis-AI",
     linkText: "View GitHub Repo",
   },
   {
